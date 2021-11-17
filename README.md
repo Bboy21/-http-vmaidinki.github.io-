@@ -1,2 +1,2 @@
-# -http-vmaidinki.github.io-
+# http-vmaidinki.github.io
 web for fashion design
